@@ -1,0 +1,18 @@
+service: petzinho # nome do serviço
+
+frameworkVersion: '3' # versão do framework
+
+provider:
+  name: aws # nome do provedor poderia ser azure ou google
+  runtime: nodejs12.x # versão do nodejs
+
+functions: # as funções lambda
+  listarPets: # nome da função
+    handler: functions/listarPets.handler # aonde está o arquivo que será executado
+    events:
+      - http:
+          path: listarPets # nome da nossa rota
+          method: get # metodo HTTP
+
+plugins: # lista de plugin
+  - serverless-offline # rodar o projeto na sua maquina offline

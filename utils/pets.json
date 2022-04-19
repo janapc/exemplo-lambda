@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "raca": "Husky Siberiano",
+      "descricao": "O husky siberiano é uma raça de cães de trabalho e companhia, do tipo Spitz, oriunda da Sibéria na Rússia. Sua função específica é tracionar trenós."
+    },
+    {
+      "id": 2,
+      "raca": "Akita Inu",
+      "descricao": "Akita inu é uma raça de cães de grande porte do tipo spitz originária das regiões montanhosas do norte do Japão. Existem duas variedades distintas de Akita: um tipo japonês, comumente chamado Akita inu (inu significa cão em japonês) ou Akita japonês, e um tipo americano, conhecido como Akita americano."
+    },
+    {
+      "id": 3,
+      "raca": "Golden Retriever",
+      "descricao": "Fisicamente, o golden é ainda um animal robusto, de pelagem mediana e lisa, e de coloração dourada que varia em tom. Entre suas principais características físicas está sua expressão, descrita como meiga.Golden retriever adulto.Devido a todas as suas qualidades, foi eleita a raça mais popular no Japão."
+    },
+    {
+      "id": 4,
+      "raca": "Labrador",
+      "descricao": "Labrador retriever é uma raça de cães do tipo retriever originária da província de Terra Nova e Labrador no Canadá, mas desenvolvida na Inglaterra. Utilizada originalmente para a caça de aves aquáticas, a labrador retriever é conhecida como uma raça versátil, inteligente e dócil."
+    },
+    {
+      "id": 5,
+      "raca": "Dobermann",
+      "descricao": "Dobermann é uma raça de cães do grupo pinscher, oriunda da Alemanha.A raça foi desenvolvida inicialmente por Karl Friedrich Louis Dobermann em Apolda na Alemanha por volta de 1860. Foi a primeira raça criada especialmente para proteção.Bem sucedido como cão de guarda de patrimônios, o cão dobermann é também um bom animal de companhia, desde que integrado ao lar e a família."
+    },
+    {
+      "id": 6,
+      "raca": "Boxer",
+      "descricao": "Boxer é uma raça de cães do tipo dogue, oriunda da Alemanha. A raça descende do extinto Bullenbeisser alemão, que era utilizado para a perseguição e enfrentamento de caça de grande porte, como javalis, touros e ursos."
+    },
+    {
+      "id": 7,
+      "raca": "Rottweiler",
+      "descricao": "Rottweiler é uma raça de cães molossos desenvolvida na Alemanha.Criada por açougueiros da região de Rottweil para o trabalho com o gado, logo tornou-se um eficiente cão de guarda e boiadeiro, e cão de tração. Devido à sua utilidade, tornou-se popular em todo o mundo ao decorrer do século XX. É uma raça descrita como de exemplares inteligentes, valentes e devotados. Fisicamente é um animal forte, de pelagem preta e curta, com marcações em castanho; é robusto e de estrutura compacta, que transparece força, agilidade e resistência."
+    },
+    {
+      "id": 8,
+      "raca": "Shih-tzu",
+      "descricao": "Shih-tzu é uma raça de pequenos cães de companhia de pelo longo, originária do Tibete."
+    },
+    {
+      "id": 9,
+      "raca": "Pastor-alemão",
+      "descricao": "Pastor-alemão é uma raça canina proveniente da Alemanha.Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial (K9)."
+    },
+    {
+      "id": 10,
+      "raca": "Dálmata",
+      "descricao": "Dálmata é uma raça canina antiga, oriunda do Leste Europeu, da região da Dalmácia, e reconhecida por sua característica pelagem manchada.Cão muito utilizado para a caça de aves e, durante a Idade Média, foi também utilizado para acompanhar as carruagens.Demonstra aptidão para o acompanhamento da caça e para guarda e foi tornado o mascote dos bombeiros dos EUA por ter sido hábil nos resgates em incêndios utilizado tanto pelos bombeiros quanto pela polícia estadunidense."
+    }
+  ]
+}
